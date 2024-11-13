@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Website Parallax</h1>
+<h1>Parallax Scrolling</h1>
 </div><br>
 
 <div>
@@ -9,3 +9,5 @@
 <br>
 <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </div><br>
+
+![image](https://github.com/user-attachments/assets/399125da-5a2e-433f-9b4e-8d0364f03569)
